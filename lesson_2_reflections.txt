@@ -28,6 +28,9 @@ main project like something you are experimenting with.
 
 How do the diagrams help you visualize the branch structure?
 
+- They allow you to better conceptualize what the branch represents as well as
+better understand how the commits and history are associated.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

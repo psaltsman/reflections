@@ -1,3 +1,5 @@
+*** From Udacity course on using Git and Github.
+
 What happens when you initialize a repository? Why do you need to do it?
 
 - When you initialize a repository git initializes an empty repository without any
@@ -35,8 +37,7 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 - The commits from both branches are added to the merged branch and the head of
-merged branch becomes the latest commit.  I'm not sure about the second part of
-the question.
+merged branch becomes the latest commit.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

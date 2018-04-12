@@ -4,8 +4,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 - When you initialize a repository git initializes an empty repository without any
 commits in it.  I guess you need to do it because it is the first step in
-creating a new repository.  I'm not actually sure I understand the second part
-of the question.
+creating a new repository.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
@@ -42,7 +41,7 @@ merged branch becomes the latest commit.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-- The pros of automatic merging is that is takes out any guess work that you
+- The pros of automatic merging is that is takes out any guess work for you
 while the pros of manually merging are that you have an opportunity to review
 what is being merged.  The cons of automatic merging are that you don't always
 know what might be being merged while the cons for the manual approach is that
